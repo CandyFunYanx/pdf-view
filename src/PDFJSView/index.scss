@@ -1,0 +1,17 @@
+.PDFJSView {
+  padding-left: 440px;
+  // .pdf-container {
+  //   height: calc(100vh - 100px);
+  //   overflow: auto;
+  // }
+
+  .textLayer {
+    span {
+      // pointer-events: none;
+      // &::selection {
+      //   background-color: #2d6dad;
+      //   color: #ccc;
+      // }
+    }
+  }
+}
